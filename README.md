@@ -3,7 +3,7 @@ HyperList is a time and stress management native Android application tailored fo
 
 The app’s codebase follows the Model-View-ViewModel architectural pattern alongside JetPack navigation, Room persistence, and WorkManager components implemented in Kotlin. 
 
-**IMAGE**
+![HyperList App Home Screen](images/image-1.png)
 
 ## UX Development
 HyperList’s UX maximises focus, motivation, and positivity through a combination of time-boxing, the Pomodoro technique, positive reinforcement, and intervention.
