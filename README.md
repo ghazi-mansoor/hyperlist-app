@@ -28,14 +28,15 @@ Uses the psychologically proven Pomodoro technique for increasing focus, elimina
 ### Deep Linked Reminders
 Daily reminders that are deep-linked to the Pomodoro timer screen (fragment).  Tapping the notification automatically starts the pomodoro timer. This reduces the friction and potential the lack of motivation that can prevent the user from starting the timer by first opening the app and navigating to the timer screen.
 
-**IMAGE**
+![HyperList App deep linked notification reminder](images/image-4.png)
 
 ### Bar Code Scanner Alarm
 ADHD users have a hard time waking up due to a lack of dopamine early in the morning. The interviewed users told stories of snoozing their alarms hours at a stretch.
 
 HyperList features a bar-code based daily alarm that cannot be turned off unless the user wakes up, moves some distance, and scans a bar-code.
 
-**IMAGE**
+![HyperList App bar code scanner alarm](images/image-5-a.png)
+![HyperList App bar code scanner alarm set](images/image-5-b.png)
 
 ### Tips and Help
 The app provides instant access to proven tips and techniques for quickly managing  ADHD associated issues such as: 
