@@ -21,7 +21,9 @@ The natural language input avoids breaking the user’s focus and attention by n
 ### Pomodoro Timer
 Uses the psychologically proven Pomodoro technique for increasing focus, eliminating distractions, and enhancing the motivation to perform a task. 
 
-**IMAGE**
+![HyperList App pomodoro work or focus timer](images/image-3-a.png)
+
+![HyperList App pomodoro break or rest timer](images/image-3-b.png)
 
 ### Deep Linked Reminders
 Daily reminders that are deep-linked to the Pomodoro timer screen (fragment).  Tapping the notification automatically starts the pomodoro timer. This reduces the friction and potential the lack of motivation that can prevent the user from starting the timer by first opening the app and navigating to the timer screen.
