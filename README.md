@@ -1,4 +1,4 @@
-# HyperList ReadMe
+# HyperList: ADHD Time and Stress Management App
 HyperList is a time and stress management native Android application tailored for Adult ADHD users. The application was created as part of the CSCI 5708: Mobile Computing course (Winter 2020) at Dalhousie University.
 
 The app’s codebase follows the Model-View-ViewModel architectural pattern alongside JetPack navigation, Room persistence, and WorkManager components implemented in Kotlin. 
