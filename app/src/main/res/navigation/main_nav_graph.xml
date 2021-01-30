@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav_graph"
+    app:startDestination="@id/tasksMainFragment">
+
+    <fragment
+        android:id="@+id/tasksMainFragment"
+        android:name="com.example.hyperlist.fragments.TasksMainFragment"
+        android:label="fragment_tasks_main"
+        tools:layout="@layout/fragment_tasks_main" />
+    <fragment
+        android:id="@+id/timerMainFragment"
+        android:name="com.example.hyperlist.fragments.TimerMainFragment"
+        android:label="fragment_timer_main"
+        tools:layout="@layout/fragment_timer_main" />
+    <fragment
+        android:id="@+id/alarmMainFragment"
+        android:name="com.example.hyperlist.fragments.AlarmMainFragment"
+        android:label="fragment_alarm_main"
+        tools:layout="@layout/fragment_alarm_main" />
+</navigation>

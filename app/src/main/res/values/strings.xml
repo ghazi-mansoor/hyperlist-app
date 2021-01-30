@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">HyperList</string>
+
+    <string name="skip_button">Skip</string>
+    <string name="add_button">Add</string>
+    <string name="task_priority_check">Mark Important</string>
+    <string name="task_input_label">Prepare dinner at 6:00 PM</string>
+    <string name="task_input_start_icon">Add a new task for example prepare dinner at 06:00 PM</string>
+    <string name="reset_button">Reset</string>
+
+    <string name="advice_card_text">Feeling anxious, or demotivated? Tap for friendly advice on how to manage your ADHD.</string>
+    <string name="task_list_heading">Today\'s Tasks</string>
+    <string name="start_pomodoro_icon">Start pomodoro timer</string>
+
+    <string name="focus_timer">Focus Timer</string>
+    <string name="break_timer">Break Timer</string>
+
+    <string name="set_alarm_instruction_heading">How It Works</string>
+    <string name="set_alarm_instruction_body">This alarm clock is designed to get you out of the bed. Place a barcode away from your bed. When the alarm goes off, scan the barcode with the app\'s barcode scanner to turn off the alarm.</string>
+    <string name="set_alarm_indicator">Alarm Is Active</string>
+    <string name="set_alarm_button">Set Alarm</string>
+
+
+    <string name="bottom_nav_menu_item_tasks">Tasks</string>
+    <string name="bottom_nav_menu_item_timer">Timer</string>
+    <string name="bottom_nav_menu_item_alarm">Alarm</string>
+
+    <string name="scanner_instruction">Scan any barcode with this scanner to turn off the alarm</string>
+    <string name="scanner_tap_button">Or Tap Three Times To Turn Off Alarm</string>
+
+    <string name="tips_main_heading">Manage Your ADHD</string>
+
+    <string name="anxiety_tip_heading">Having anxiety?</string>
+    <string name="anxiety_tip_body_1">Take a break and practice self-talking. Imagine a close friend around you, and start talking out your heart.
+    Discuss your fears, thoughts, and plans. Trust me, it helps.</string>
+    <string name="anxiety_tip_body_2">Try the 4-7-8 breathing technique. Breath in for 4 seconds. Hold your breath for 7 seconds. Then exhale forcefully for 8 seconds.Repeat the cycle 4 times.
+        You\'ll feel a lot better.</string>
+
+    <string name="over_tip_heading">Feeling overwhelmed?</string>
+    <string name="over_tip_body_1">Let\'s slow down a bit. You are probably thinking way too deep. Take a piece of paper and a pen. Start dividing the problem into the smallest possible steps.
+    Talk yourself through each step. Then start solving from the first step.</string>
+    <string name="over_tip_body_2">Get up and start walking. Keep repeating to yourself that you are very fast and deep analytical thinker. Assert your confidence, and then divide up the task at hand into small manageable chunks,</string>
+
+    <string name="conf_tip_heading">Feeling less confident?</string>
+    <string name="conf_tip_body">Remember your ADHD has blessed you with fast, creative, and analytical thinking. You are a natural risk taker, driven, and ambitious. All you need is structure and some motivation. Morning workouts can be as effective as medication. Try it!</string>
+
+
+</resources>

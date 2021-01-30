@@ -1,0 +1,2 @@
+rootProject.name='HyperList'
+include ':app'
