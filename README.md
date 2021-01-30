@@ -39,10 +39,10 @@ HyperList features a bar-code based daily alarm that cannot be turned off unless
 ![HyperList App bar code scanner alarm set](images/image-5-b.png)
 
 ### Tips and Help
-The app provides instant access to proven tips and techniques for quickly managing  ADHD associated issues such as: 
+The app provides instant access to proven tips and techniques for quickly managing ADHD associated issues such as: 
 	1. Anxiety
 	2. Feeling overwhelmed
 	3. Lack of focus
 	4. Motivation
 
-**IMAGE**
+![HyperList ADHD management tips and techniques](images/image-6.png)
