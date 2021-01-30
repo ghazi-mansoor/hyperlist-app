@@ -16,7 +16,7 @@ A daily to-do list with natural language input to capture time-boxed daily tasks
 
 The natural language input avoids breaking the user’s focus and attention by not forcing them to open a new dialog box or screen.
 
-**IMAGE**
+![HyperList App daily todo list with natural language input](images/image-2.png)
 
 ### Pomodoro Timer
 Uses the psychologically proven Pomodoro technique for increasing focus, eliminating distractions, and enhancing the motivation to perform a task. 
